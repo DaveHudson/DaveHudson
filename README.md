@@ -1,4 +1,11 @@
-### Hi there 👋
+### Full Stack Serverless Developer 👋
+
+- 💬 Amplify
+- 💬 React
+- 💬 TypeScript
+- 💬 GraphQL
+- 💬 NextJS
+- 💬 XState
 
 <!--
 **DaveHudson/DaveHudson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
