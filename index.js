@@ -160,7 +160,7 @@ const tools = toolsConfig.reduce((result, toolConfig) => result + '\n' + generat
       const formattedDate = new Intl.DateTimeFormat('en-GB', { dateStyle: 'full' }).format(date)
     
       const path = post.slug;
-      posts += `<li><a target="_blank" href="${BLOG_HOST}/${path}">${title} — ${formattedDate}</a></li>`;
+      posts += `<li><a target="_blank" href="${BLOG_HOST}/posts/${path}">${title} — ${formattedDate}</a></li>`;
   });
 
   const content = `${introTitle}\n
