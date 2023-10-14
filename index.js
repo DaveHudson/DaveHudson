@@ -15,7 +15,7 @@ const BLOG_HOST = `https://applification.net`;
 
 /* README Sections */
 const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Dave', 'https://applification.net')}`);
-const introDescription = `Owner & fullstack software engineer at **${generateLink('Applification', 'https://applification')}** in Durham, UK.`;
+const introDescription = `Owner & fullstack software engineer at **${generateLink('Applification', 'https://applification.net')}** in Durham, UK.`;
 const postsTitle = generateTitle(2, `:black_nib: Recent blog posts`)
 const toolsTitle = generateTitle(2, `:rocket: Stack`)
 const toolsIconSize = 25;
