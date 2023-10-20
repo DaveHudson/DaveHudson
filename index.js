@@ -23,8 +23,6 @@ const toolsIconSize = 25;
 // icons todo
 /**
  * 
-
-    - Remix ♥️
     - Vite + React Router 
     - shadcn/ui
     - Tailwind UI
@@ -80,7 +78,11 @@ const toolsConfig = [
   {
     src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     alt: 'react',
-  },  
+  },
+  {
+    src: './assets/icons/remix.svg',
+    alt: 'Remix',
+  },    
   {
     src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg',
     alt: 'nextjs',
@@ -98,7 +100,7 @@ const toolsConfig = [
     alt: 'nodejs',
   },  
   {
-    src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg',
+    src: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg',
     alt: 'express',
   },
   {
@@ -168,7 +170,7 @@ ${introDescription}\n
 ${postsTitle}\n
 ${posts}\n
 ${toolsTitle}\n
-<p align="left">\n
+<p align="left" style="display: flex; align-items: center; gap: 3px; background-color: white; padding:2px; border-radius:5px;">\n
   ${tools}\n
 </p>\n
 `;
