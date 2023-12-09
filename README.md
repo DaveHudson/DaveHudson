@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://applification.net">Dave</a></h2>
-<p>Owner &amp; fullstack software engineer at <strong><a href="https://applification.net">Applification</a></strong> in Durham, UK.</p>
+<p>Owner &amp; full-stack software engineer at <strong><a href="https://applification.net">Applification</a></strong> in Durham, UK.</p>
 <h2>✒️ Recent blog posts</h2>
 <li><a target="_blank" href="https://applification.net/posts/aiengineer">The Inaugral AI Engineer Summit — Wednesday, 11 October 2023</a></li><li><a target="_blank" href="https://applification.net/posts/remix">Thoughts on Remix — Friday, 18 February 2022</a></li><li><a target="_blank" href="https://applification.net/posts/remixing-this-blog">Remixing this blog — Friday, 18 February 2022</a></li>
 <h2>🚀 Stack</h2>
