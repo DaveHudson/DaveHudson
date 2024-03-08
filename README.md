@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://applification.net">Dave</a></h2>
 <p>Owner &amp; fullstack software engineer at <strong><a href="https://applification.net">Applification</a></strong> in Durham, UK.</p>
 <h2>✒️ Recent blog posts</h2>
-<li><a target="_blank" href="https://applification.net/posts/weeknotes-episode-1">Weeknotes Ep 1 — Thursday, 29 February 2024</a></li><li><a target="_blank" href="https://applification.net/posts/react-server-components-game-changer-confused-applaud">"React Server Components: The Game-Changer Critics Are Too Confused to Applaud!" — Thursday, 8 February 2024</a></li><li><a target="_blank" href="https://applification.net/posts/the-ai-cv">The AI CV — Sunday, 7 January 2024</a></li>
+<li><a target="_blank" href="https://applification.net/posts/ai-generative-ui-rsc">AI Generative UI — Thursday, 7 March 2024</a></li><li><a target="_blank" href="https://applification.net/posts/react-server-comonents">React Server Components: Deep Dive — Thursday, 7 March 2024</a></li><li><a target="_blank" href="https://applification.net/posts/weeknotes-ep-2">Weeknotes Ep 2 — Thursday, 7 March 2024</a></li>
 <h2>🚀 Stack</h2>
 <p align="left" style="display: flex; align-items: center; gap: 3px; background-color: white; padding:2px; border-radius:5px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="25" height="25" />
